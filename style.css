@@ -1,0 +1,51 @@
+body {
+    font-family: 'helvetica';
+    background-color: rgb(247, 238, 247);
+    color: rgba(99, 24, 99, 0.801);
+    font-size: 14pt;
+    font-weight: 480;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(29, 161, 161);
+    font-size: 30pt;
+    font-family: 'calibri';
+}
+
+section {
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    padding: 3px 15px;
+    border: solid 3px rgb(67, 199, 186);
+    background-color: rgb(245, 218, 248);
+    border-radius: 15px;
+  
+   
+}
+
+.ultimoResultado {
+    font-weight: 500;
+    color: black;
+    padding: 3px 50px;
+    width: 30%;
+    margin: auto;
+    border-radius: 4px;
+}
+
+.palpites {
+    font-weight: 500;
+}
+
+button {
+
+    background-color: thistle;
+    border: solid transparent 3px;
+    border-radius: 4px;
+    line-height: 15pt;
+    color:rgb(29, 161, 161);
+    font-size: 11pt;
+    font-weight: 400;
+    font-family: 'helvetica', arial;
+}
